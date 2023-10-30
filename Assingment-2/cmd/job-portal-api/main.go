@@ -25,7 +25,7 @@ func main() {
 }
 func startApp() error {
 
-	// =========================================================================
+	// ==========================================================================
 	// Initialize authentication support
 	log.Info().Msg("main : Started : Initializing authentication support")
 	/*
